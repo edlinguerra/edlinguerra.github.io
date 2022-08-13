@@ -41,6 +41,6 @@ We can also interact on the following academic/social networks:
 
 ### Software development
 
--   Main author and responsible for the **R** package: *Simulated Sampling Procedure for Community Ecology* ([SSP](https://edlin.shinyapps.io/ssp_web/)) and the [online SSP web app](https://edlin.shinyapps.io/ssp_web/).
+-   Main author and responsible for the **R** package: *Simulated Sampling Procedure for Community Ecology* ([SSP](https://cran.r-project.org/package=SSP)) and the [online SSP web app](https://edlin.shinyapps.io/ssp_web/).
 
 -   Designer and programmer responsible for the Shiny app BCG for coral reefs of Puerto Rico and the U.S. Virgin Islands
