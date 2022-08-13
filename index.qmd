@@ -1,0 +1,33 @@
+---
+title: Edlin J. Guerra Castro
+subtitle: Marine Ecology | Numerical Ecology | Statistics & Data Science
+format:
+  html:
+    theme: litera
+editor: visual
+---
+
+## Biography
+
+I am from Venezuela and currently living in Mexico. My research interests focus on quantitative community ecology, specifically, the description of patterns of species diversity of marine-coastal ecosystems at different spatial scales (from local to continental) and identifying processes responsible for those patterns using correlative analysis and manipulative experiments. My work uses and applies advanced statistical methods to evaluate ecological hypotheses. I am also interested in designing and evaluating statistical methods for better ecological studies; this has opened the doors for several international collaborations, including my current academic affiliation at the [National Autonomous University of Mexico](http://enesmerida.unam.mx/#/investigacion), and professional memberships with the New Zealand company [PRIMER-e](https://www.primer-e.com/about/) and the Mexican company [BS-STATS](www.bs-stats.com).
+
+### Software development
+
+I am the principal author and responsible for the **R** package: *Simulated Sampling Procedure for Community Ecology* ([SSP](https://edlin.shinyapps.io/ssp_web/)) and the [online SSP web app](https://edlin.shinyapps.io/ssp_web/).
+
+### Academic profiles
+
+Data about my scientific articles, projects and peer reviews can be accessed on the following platforms:
+
+-   [ORCID](https://orcid.org/0000-0003-3529-4507)
+-   [Publons](https://publons.com/wos-op/researcher/1363219/edlin-guerra-castro/)
+-   [Scopus](https://www.scopus.com/authid/detail.uri?authorId=16022128500)
+-   [Google Scholar](https://scholar.google.com/citations?user=Bsdh8WsAAAAJ&hl=en&authuser=1)
+
+
+We can also interact on the following academic/social networks:
+
+-   [Researchgate](https://www.researchgate.net/profile/Edlin-Guerra-Castro)
+-   [Linkedin](https://www.linkedin.com/in/edlin-j-guerra-castro-11125035)
+-   [GitHub](https://github.com/edlinguerra)
+-   [Twitter](https://twitter.com/edlinguerra)
