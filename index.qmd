@@ -8,15 +8,15 @@ editor: visual
 ---
 
 ::: {layout-ncol="5"}
-![](images/playa.jpg)
+![](images/playa.png)
 
-![](images/arm.jpg)
+![](images/arm.png)
 
-![](images/manglar.jpg)
+![](images/manglar.png)
 
-![](images/primer.jpg)
+![](images/primer.png)
 
-![](images/r2.jpg)
+![](images/r2.png)
 :::
 
 ## Biography
